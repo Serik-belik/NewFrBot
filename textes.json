@@ -1,0 +1,133 @@
+{
+	"Je m’appelle Jessica": {
+		"Text": "Je m’appelle Jessica. Je suis une fille, je suis française et j’ai treize ans. Je vais à l’école à Nice, mais j’habite à Cagnes-Sur-Mer. J’ai deux frères. Le premier s’appelle Thomas, il a quatorze ans. Le second s’appelle Yann et il a neuf ans. Mon papa est italien et il est fleuriste. Ma mère est allemande et est avocate. Mes frères et moi parlons français, italien et allemand à la maison. Nous avons une grande maison avec un chien, un poisson et deux chats. Aujourd’hui, on est samedi, nous rendons visite à notre grand-mère. Elle a 84 ans et elle habite à Antibes. J’adore ma grand-mère, elle est très gentille. Elle fait des bons gâteaux. \n Lundi, je retourne à l’école. Je suis contente, je vais voir Amélie. C’est ma meilleure amie. J’aime beaucoup l’école. Mes matières préférées sont le français et le sport. J’aime beaucoup lire et je nage très bien.",
+		"Questions": [{
+			"Q": "Quel âge a Jessica ?",
+			"V": ["12", "13", "16", "9"],
+			"C": "13"
+			}, {
+			"Q": "Combien de frères a Jessica ?",
+			"V": ["1", "2", "3", "4"],
+			"C": "2"
+			}, {
+			"Q": "Quelles sont les langues que Jessica parle ?",
+			"V": ["Seulement le français.", "L'anglais.", "L'espagnol et l'anglais.", "Le français, l'italien et l'allemand."],
+			"C": "Le français, l'italien et l'allemand."
+			}, {
+			"Q": "Où est-ce que Jessica et sa famille ont l'intention d'aller aujourd'hui ?",
+			"V": ["Le Cinéma", "À l'école", "La plage", "Rendre visite à leur grand-mère"],
+			"C": "Rendre visite à leur grand-mère"
+			}, {
+			"Q": "Quelle est la matière préférée de Jessica à l'école?",
+			"V": ["L'allemand", "Les maths", "La science", "Le sport et le français"],
+			"C": "Le sport et le français"
+			}]},
+	
+	"C'est ma vie": {
+		"Text": "Je m'appelle Angélica Summer, j'ai 12 ans et je suis canadienne. Il y a 5 ans, ma famille et moi avons déménagé dans le sud de la France. Mon père, Frank Summer, est mécanicien; il adore les voitures anciennes et collectionne les voitures miniatures. \n Ma mère s'appelle Emilie Summer ; elle est infirmière dans un hôpital non loin de notre maison. Nous avons déménagé en France, parce qu'elle a toujours aimé la culture de ce pays. \n La vie en France est très différente de celle au Canada. Ici, il fait toujours chaud. Chaque dimanche, nous allons à la magnifique plage de Biarritz et nous achetons des glaces après avoir nagé dans la mer. \n Les Français sont très sympathiques et accueillants. Nous parlons français lorsque nous sommes dehors, à l'école ou au marché. Cependant, nous continuons de parler anglais à la maison, car mes parents ne veulent pas que je perde ma langue natale.",
+		"Questions": [{
+			"Q": "Quel est le métier du père d'Angélica ?",
+			"V": ["Plombier", "Mécanicien", "Collectionneur de voitures miniatures", "Infirmier"],
+			"C": "Mécanicien"
+			}, {
+			"Q": "Quand est-ce que la famille Summer a déménagé en France ?",
+			"V": ["Il y a 8 jours", "Il y a 2 ans", "Il y a 5 ans", "Il y a 3 semaines"],
+			"C": "Il y a 5 ans"
+			}, {
+			"Q": "La famille Summer parle anglais lorsqu'elle est :",
+			"V": ["Au travail", "À l'école", "Au marché", "À la maison"],
+			"C": "À la maison"
+			}, {
+			"Q": "Comment sont les français ?",
+			"V": ["Méchants", "Ennuyeux", "Sympathiques", "Adorables"],
+			"C": "Sympathiques"
+			}, {
+			"Q": "Comment s'appelle la maman dans la famille Summer ?",
+			"V": ["Patricia", "Angélica", "Emilie", "Mathilde"],
+			"C": "Emilie"
+			}]},
+	
+	"Comment vas-tu ?": {
+		"Text": "Franck: Bonjour Nicolas! \nNicolas: Salut Franck! Comment vas-tu? \nFranck: Je vais bien. Et toi? \nNicolas: Très bien! Tu es toujours étudiant? \nFranck: Non, j’ai terminé mes études en juin dernier. Je suis informaticien. Et toi, tu es toujours cuisinier? \nNicolas: Oui, j’ai ouvert un restaurant à Lyon depuis six mois dans le centre ville. \nFranck: Quel type de cuisine proposes-tu? \nNicolas: Je propose des spécialités de la région lyonnaise. \nFranck: J’aimerai beaucoup venir et goûter tes recettes! \nNicolas: Je serai ravi de t’accueillir. Quand souhaites-tu venir? \nFranck: Samedi soir. Je viendrai dîner avec mon amie. \nNicolas: Elle travaille dans le domaine de l’informatique aussi? \nFranck: Non, elle est fleuriste. Elle s’appelle Paola, elle est italienne. \nNicolas: J’ai hâte de la rencontrer. A samedi!",
+		"Questions": [{
+			"Q": "Franck est:",
+			"V": ["Informaticien", "Fleuriste", "Etudiant", "Cuisinier"],
+			"C": "Informaticien"
+			}, {
+			"Q": "Quand Nicolas a-t-il ouvert son restaurant?",
+			"V": ["Depuis 6 semaines", "Depuis 6 mois", "Depuis samedi", "Depuis le mois de juin"],
+			"C": "Depuis 6 mois"
+			}, {
+			"Q": "Quelle type de cuisine propose-t-il?",
+			"V": ["Lyonnaise", "Indienne", "Italienne", "Chinoise"],
+			"C": "Lyonnaise"
+			}, {
+			"Q": "Avec qui Franck souhaite-t-il venir au restaurant?",
+			"V": ["Sa sœur", "Son frère", "Ses parents", "Son amie"],
+			"C": "Son amie"
+			}, {
+			"Q": "Paola est originaire de quel pays?",
+			"V": ["Portugal", "France", "Espagne", "Italie"],
+			"C": "Italie"
+			}, {
+			"Q": "Quand Franck et son amie viendront dîner au restaurant ?",
+			"V": ["En juin", "Dans 6 mois", "Samedi midi", "Samedi soir"],
+			"C": "Samedi soir"
+			}]},
+	
+	"La présentation": {
+		"Text": "Pierre est un jeune garçon de 14 ans. Il vit à Paris avec ses parents et sa petite sœur Julie, âgée de 8 ans. Toute la petite famille habite dans un grand appartement au 3ème étage d'un immeuble situé près de la Tour Eiffel. Ainsi, Pierre a le privilège d'admirer chaque jour l'un des monuments les plus visités au monde! \nPour se rendre au collège, Pierre prend le métro à la station Ecole Militaire et sort au collège Claude Debussy. Le trajet ne dure que 20 minutes! Le week-end, Pierre aime passer du temps en famille. Tous les quatre en profitent pour visiter les musées parisiens, aller au cinéma, faire du shopping, ou se balader dans l'un des nombreux parcs de la capitale. \nLes vacances sont les moments préférés de Pierre car il a pour habitude d'aller chez ses grands-parents qui vivent dans une ferme de la campagne normande. Toute la petite famille apprécie alors l'air pur, la nature et le calme pendant quelques semaines avant de rentrer à Paris.",
+		"Questions": [{
+			"Q": "Quel âge a Pierre?",
+			"V": ["14 ans", "16 ans", "10 ans", "8 ans"],
+			"C": "14 ans"
+			}, {
+			"Q": "Où vit Pierre et sa famille?",
+			"V": ["dans un appartement", "dans une maison de ville", "dans une ferme", "dans un pavillon"],
+			"C": "dans un appartement"
+			}, {
+			"Q": "Quel est le monument que Pierre voit tous les jours?",
+			"V": ["la Tour Montparnasse", "l'Arc de Triomphe", "la Tour Eiffel", "le Musée du Louvre"],
+			"C": "la Tour Eiffel"
+			}, {
+			"Q": "Quel moyen de transport prend-il pour se rendre au collège?",
+			"V": ["le train", "la voiture", "le bus", "le métro"],
+			"C": "le métro"
+			}, {
+			"Q": "Comment Pierre et sa famille passent-ils leurs week-ends?",
+			"V": ["ils vont à la plage", "ils font des randonnées", "ils vont à la campagne", "ils se baladent dans Paris"],
+			"C": "ils se baladent dans Paris"
+			}, {
+			"Q": "Où vivent les grands-parents de Pierre ?",
+			"V": ["en Normandie", "à Paris", "en Bretagne", "sur la Côte d'Azur"],
+			"C": "en Normandie"
+			}]}, 
+	
+	"Blank": {
+		"Text": "",
+		"Questions": [{
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}, {
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}, {
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}, {
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}, {
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}, {
+			"Q": "",
+			"V": ["", "", "", ""],
+			"C": ""
+			}]}
+}

@@ -1,0 +1,594 @@
+{
+	"u2L8 le masculin et le féminin des noms de personnes (professions, etc)": {
+		"Task": "Complétez la phrase",
+		"Questions": [{
+			"Q": "Paolo est un champion de ski italien. Anna est une ______ de ski italienne.",
+			"V": [],
+			"C": "championne"
+							}, {
+			"Q": "Il est directeur. Elle est ______ .",
+			"V": [],
+			"C": "directrice"
+							}, {
+			"Q": "Il est comptable. Elle est ______ .",
+			"V": [],
+			"C": "comptable"
+							}, {
+			"Q": "Il est vendeur. Elle est ______ .",
+			"V": [],
+			"C": "vendeuse"
+							}, {
+			"Q": "Il est acteur. Elle est ______ .",
+			"V": [],
+			"C": "actrice"
+							}, {
+			"Q": "Marc est un client important. Madame Laudier est une ______ importante.",
+			"V": [],
+			"C": "cliente"
+							}, {
+			"Q": "Il est infirmier. Elle est ______ .",
+			"V": [],
+			"C": "infirmière"
+							}, {
+			"Q": "C’est un mari jaloux. Il a une ______ jalouse.",
+			"V": [],
+			"C": "femme"
+							}, {
+			"Q": "Il est poisonnier. Elle est ______ .",
+			"V": [],
+			"C": "poisonière"
+							}, {
+			"Q": "Il est épicier. Elle est ______ .",
+			"V": [],
+			"C": "épicière"
+							}, {
+			"Q": "Il est photograph. Elle est ______ .",
+			"V": [],
+			"C": "photographe"
+							}, {
+			"Q": "Il est policier. Elle est ______ .",
+			"V": [],
+			"C": "policière"
+							}, {
+			"Q": "C’est joli garçon. C’est une jolie ______.",
+			"V": [],
+			"C": "fille"
+							}, {
+			"Q": "Gérard est un acteur français. Sophie est une ______ française.",
+			"V": [],
+			"C": "actrice"
+							}, {
+			"Q": "Daniel est un chanteur canadien. Alanis est une ______ canadienne.",
+			"V": [],
+			"C": "chanteuse"
+							}, {
+			"Q": "Il est électricien. Elle est______ .",
+			"V": [],
+			"C": "électricienne"
+							}, {
+			"Q": "Paul est un journaliste français. Élodie est une ______ française.",
+			"V": [],
+			"C": "journaliste"
+							}, {
+			"Q": "Il est réceptionniste. Elle est ______ .",
+			"V": [],
+			"C": "réceptionniste"
+							}, {
+			"Q": "Il est politicien. Elle est ______ .",
+			"V": [],
+			"C": "politicienne"
+							}, {
+			"Q": "Yannick est un serveur italien. Laura est une ______ italienne.",
+			"V": [],
+			"C": "serveuse"
+							}]
+	},
+	
+	"u3L9 les prépositions de lieu (1)": {
+		"Task": "Complétez la phrase avec  » au « ,  » à la « ,  » à l’ « ,  » aux « ,  » du « ,  » de la « ,  » de l’ « ,  » des « ,  » chez le / la / les / l’  »",
+		"Questions": [{
+			"Q": "Ils ont un rendez-vous ___ dentiste.",
+			"V": ["au", "à la", "chez la", "chez le"],
+			"C": "chez le"
+							}, {
+			"Q": "Il va ___ cabinet médical.",
+			"V": ["au", "chez le", "du", "à la"],
+			"C": "au"
+							}, {
+			"Q": "Nous allons ___ Pierre.",
+			"V": ["chez", "au", "du", "chez le"],
+			"C": "chez"
+							}, {
+			"Q": "Tu viens ___ café.",
+			"V": ["à la", "au", "de la", "du"],
+			"C": "du"
+							}, {
+			"Q": "Tu viens ___ cinéma.",
+			"V": ["au ", "à la", "du", "de la"],
+			"C": "du"
+							}, {
+			"Q": "Elle va ___ boulanger.",
+			"V": ["chez le", "au", "du", "à le"],
+			"C": "chez le"
+							}, {
+			"Q": "Je vais ___ tours de la Rochelle.",
+			"V": ["à la", "aux", "chez les", "au"],
+			"C": "aux"
+							}, {
+			"Q": "Il va ___ toilettes.",
+			"V": ["au", "à la", "aux", "des"],
+			"C": "aux"
+							}, {
+			"Q": "Tu viens ___ bibliothèque.",
+			"V": ["de la", "au", "du", "à la"],
+			"C": "de la"
+							}, {
+			"Q": "Vous allez ___ Élodie.",
+			"V": ["à la", "chez la", "chez", "de la"],
+			"C": "chez"
+							}, {
+			"Q": "Vous allez ___ coiffeur.",
+			"V": ["chez", "au", "à la", "chez le"],
+			"C": "chez le"
+							}, {
+			"Q": "Il va ___ cabinet médical.",
+			"V": ["au", "à la", "chez le", "chez la"],
+			"C": "au"
+							}, {
+			"Q": "Nous allons ___ cinéma.",
+			"V": ["au", "chez le", "à la", "à le"],
+			"C": "au"
+							}, {
+			"Q": "Tu viens ___ marché.",
+			"V": ["du", "de la", "au", "des"],
+			"C": "du"
+							}, {
+			"Q": "Tu vas ___ hôpital.",
+			"V": ["au", "à la", "à le", "à l’"],
+			"C": "à l’"
+							}, {
+			"Q": "Vous allez ___ poste.",
+			"V": ["à la", "de la", "chez le", "au"],
+			"C": "à la"
+							}, {
+			"Q": "Tu viens ___ aéroport.",
+			"V": ["à l’", "au", "du", "de l’"],
+			"C": "de l’"
+							}, {
+			"Q": "Tu vas ___ piscine.",
+			"V": ["à la", "chez le", "du", "au"],
+			"C": "à la"
+							}, {
+			"Q": "Je viens ___ thermes.",
+			"V": ["aux", "des", "chez les", "de la"],
+			"C": "des"
+							}, {
+			"Q": "Ils vont ___ stade.",
+			"V": ["à la", "au", "du", "chez la"],
+			"C": "au"}]},
+	
+	"u3L10 la quantité non définie": {
+		"Task": "Complétez la phrase avec  » de la « ,  » de l’ « ,  » du « ,  » des « ,  » de / d’  »",
+		"Questions": [{
+			"Q": "Je n’ai pas ___ pommes.",
+			"V": ["de", "de la", "du", "des"],
+			"C": "de"
+							}, {
+			"Q": "Il y a beaucoup ___ étudiants dans cette école.",
+			"V": ["d'", "des", "de l’", "du"],
+			"C": "d'"
+							}, {
+			"Q": "Nous ajoutons ___ épices.",
+			"V": ["d'", "de l’", "des", "du"],
+			"C": "des"
+							}, {
+			"Q": "Ils achètent ___ moutarde.",
+			"V": ["de la", "du", "des", "de"],
+			"C": "de la"
+							}, {
+			"Q": "Vous mangez ___ fromage.",
+			"V": ["du", "de la", "des", "de l’"],
+			"C": "du"
+							}, {
+			"Q": "À midi je mange ___ pâtes.",
+			"V": ["du", "des", "de l'", "d'"],
+			"C": "des"
+							}, {
+			"Q": "Dans la rue, il y a ___ gens.",
+			"V": ["du", "des", "de", "de la"],
+			"C": "des"
+							}, {
+			"Q": "Vous avez ___ travail ?",
+			"V": ["du", "de la", "de l’", "des"],
+			"C": "du"
+							}, {
+			"Q": "Ça donne ___ force.",
+			"V": ["du", "des", "de", "de la"],
+			"C": "de la"
+							}, {
+			"Q": "Tu ajoutes un peu ___ sel.",
+			"V": ["de", "du", "d'", "de la"],
+			"C": "de"
+							}, {
+			"Q": "Nous avons ___ argent.",
+			"V": ["de l'", "de la", "du", "des"],
+			"C": "de l'"
+							}, {
+			"Q": "Votre professeur a ___ patience.",
+			"V": ["de la", "de l’", "du", "des"],
+			"C": "de la"
+							}, {
+			"Q": "Tu fais ___ progrès en français.",
+			"V": ["du", "de la", "de l’", "des "],
+			"C": "du"
+							}, {
+			"Q": "Dans la mer, il y a ___ eau.",
+			"V": ["de l'", "d’", "de la", "des"],
+			"C": "de l'"
+							}, {
+			"Q": "Dans la salle, il y a ___ musique.",
+			"V": ["de la", "de l’", "du", "de"],
+			"C": "de la"
+							}, {
+			"Q": "Il y a ___ tomates dans le frigo.",
+			"V": ["des", "de", "de la", "du"],
+			"C": "des"
+							}, {
+			"Q": "Il y a ___ vent.",
+			"V": ["du", "de la", "d l'", "de"],
+			"C": "du"
+							}, {
+			"Q": "Elle prend ___ thé.",
+			"V": ["du", "de la", "de l'", "de"],
+			"C": "du"
+							}, {
+			"Q": "Dans le biberon, il y a ___ lait.",
+			"V": ["du", "de la", "d'", "de l'"],
+			"C": "du"
+							}, {
+			"Q": "Je prends ___ café le matin.",
+			"V": ["du", "de la", "de l’", "вуы"],
+			"C": "du"
+							}]},
+	
+	"u3L11 le pronom en": {
+		"Task": "Complétez la phrase avec « en »",
+		"Questions": [{
+			"Q": "Mes collègues ne boivent pas de thé le matin. \n\n Mes collègues ___ le matin.",
+			"V": [],
+			"C": "n'en boivent pas"
+							}, {
+			"Q": "Elle joue du piano. \n\n Elle  ___.",
+			"V": [],
+			"C": "en joue"
+							}, {
+			"Q": "J’ai des lunettes, mais mon fils n’a pas de lunettes. \n\n J'ai des lunettes, mais mon fils ___.",
+			"V": [],
+			"C": "n'en a pas"
+							}, {
+			"Q": "Tu manges de la confiture. \n\n Tu ___.",
+			"V": [],
+			"C": "en manges"
+							}, {
+			"Q": "Elles mangent du gâteau chaque jour. \n\n Elles ___ chaque jour.",
+			"V": [],
+			"C": "en mangent"
+							}, {
+			"Q": "Je mange des bonbons. \n\n Non, je ___.",
+			"V": [],
+			"C": "n'en mange pas"
+							}, {
+			"Q": "Elle prend de l’aspirine quand elle a mal à la tête. \n\n Elle ___ quand elle a mal à la tête.",
+			"V": [],
+			"C": "en prend"
+							}, {
+			"Q": "Nous mangeons des produits bio. \n\n Nous ___.",
+			"V": [],
+			"C": "en mangeons"
+							}, {
+			"Q": "Tu achètes des livres chaque mois. \n\n Tu ___ chaque mois.",
+			"V": [],
+			"C": "en achètes"
+							}, {
+			"Q": "Nous buvons du vin le week-end. \n\n Nous ___ le week-end.",
+			"V": [],
+			"C": "en buvons"
+							}, {
+			"Q": "Je mange de la viande, mais mes enfants ne mangent pas de viande. \n\n Je mange de la viande, mais mes enfants ___.",
+			"V": [],
+			"C": "n'en mangent pas"
+							}, {
+			"Q": "Tu consommes de l’alcool. \n\n Tu ___.",
+			"V": [],
+			"C": "en consommes"
+							}, {
+			"Q": "Il a du cholestérol. \n\n Il ___ .",
+			"V": [],
+			"C": "en a"
+							}, {
+			"Q": "Max a de la chance au jeu. Eux, ils n’ont pas de chance. \n\n Max a de la chance au jeu. Eux, ils ___.",
+			"V": [],
+			"C": "n'en ont pas"
+							}, {
+			"Q": "Ils portent des fibres synthétiques. \n\n Ils ___.",
+			"V": [],
+			"C": "en portent"
+							}, {
+			"Q": "Je ne mets pas de cirage sur mes chaussures. \n\n Je ___ sur mes chaussures.",
+			"V": [],
+			"C": "n'en mets pas"
+							}, {
+			"Q": "Léa a une voiture, mais son mari n’a pas de voiture. \n\n Léa a une voiture, mais son mari ___.",
+			"V": [],
+			"C": "n'en a pas"
+							}, {
+			"Q": "Nous prenons de l’argent à la banque. \n\n Nous ___ à la banque.",
+			"V": [],
+			"C": "en prenons"
+							}, {
+			"Q": "Je veux des épinards. \n\n ___.",
+			"V": [],
+			"C": "J'en veux"
+							}, {
+			"Q": "Tu mets du ketchup sur les frites. \n\n Tu ___ sur les frites.",
+			"V": [],
+			"C": "en mets"
+							}]
+	},
+	
+	"u4L14 Le futur proche": {
+		"Task": "Transformez la phrase en utilisant le futur proche",
+		"Questions": [{
+			"Q": "(préparer) Elle ___ ___ un gâteau ce soir.",
+			"V": [],
+			"C": "va préparer"
+							}, {
+			"Q": "(prendre) Mon frère a soixante-deux ans, il ___ ___ sa retraite dans deux ans.",
+			"V": [],
+			"C": "va prendre"
+							}, {
+			"Q": "(manger) Ce soir, ils ___ ___ une pizza surgelée.",
+			"V": [],
+			"C": "vont manger"
+							}, {
+			"Q": "(étudier) Nous ___ ___ à l’étranger.",
+			"V": [],
+			"C": "allons étudier"
+							}, {
+			"Q": "(aller) Ce week-end, je ___ ___ au théâtre.",
+			"V": [],
+			"C": "vais aller"
+							}, {
+			"Q": "(faire) Les étudiants ___ ___ beaucoup d’exercices.",
+			"V": [],
+			"C": "vont faire"
+							}, {
+			"Q": "(boire) Tu ___ ___ ton café.",
+			"V": [],
+			"C": "vas boire"
+							}, {
+			"Q": "(avoir) Les voisins ___ ___ un troisième enfant.",
+			"V": [],
+			"C": "vont avoir"
+							}, {
+			"Q": "(visiter) La semaine prochaine, vous ___ ___ Londres.",
+			"V": [],
+			"C": "allez visiter"
+							}, {
+			"Q": "(travailler) Le mois prochain, nous ___ ___ à Rome.",
+			"V": [],
+			"C": "allons travailler"
+							}, {
+			"Q": "(regarder) Ce soir, il ___ ___ un film.",
+			"V": [],
+			"C": "va regarder"
+							}, {
+			"Q": "(partir) Ce soir je ___ ___ du bureau à 18 heures.",
+			"V": [],
+			"C": "vais partir"
+							}, {
+			"Q": "(regarder) Demain, tu ___ ___ un film.",
+			"V": [],
+			"C": "vas regarder"
+							}, {
+			"Q": "(manger) Les enfants ___ ___ du poulet.",
+			"V": [],
+			"C": "vont manger"
+							}, {
+			"Q": "(rester) Demain, il ___ ___ à la maison.",
+			"V": [],
+			"C": "va rester"
+							}, {
+			"Q": "(dîner) Demain, je ___ ___ au restaurant.",
+			"V": [],
+			"C": "vais dîner"
+							}, {
+			"Q": "(passer) L’été prochain nous ___ ___ nos vacances en Corse.",
+			"V": [],
+			"C": "allons passer"
+							}, {
+			"Q": "(finir) La semaine prochaine, vous ___ ___ votre travail.",
+			"V": [],
+			"C": "allez finir"
+							}, {
+			"Q": "(écrire) Il ___ ___ une lettre à son chef.",
+			"V": [],
+			"C": "va écrire"
+							}, {
+			"Q": "(travailler) Le mois prochain, nous ___ ___ à Lyon.",
+			"V": [],
+			"C": "allons travailler"
+							}]
+	},
+	
+	"BLANK": {
+		"Task": "",
+		"Questions": [{
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}]
+	},
+	
+	"BLANK": {
+		"Task": "",
+		"Questions": [{
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}, {
+			"Q": "",
+			"V": [],
+			"C": ""
+							}]
+	}
+	
+}
